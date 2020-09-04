@@ -28,7 +28,7 @@
         "html-loader": "^0.4.4",
         "html-webpack-plugin": "^2.22.0",
         "image-webpack-loader": "^2.0.0",
-        "node-sass": "^3.9.3",
+        "node-sass": "^4.13.1",
         "react": "^15.3.1",
         "react-dom": "^15.3.1",
         "react-lite": "^0.15.18",
